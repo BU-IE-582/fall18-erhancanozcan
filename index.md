@@ -7,4 +7,4 @@
 
 ## IE 582 Homework 1 (17 October 2018)
 
-[Here](files/hw_1_version_2_.html)
+[Here](files/hw_1_version_2_.html) is my homework 1
