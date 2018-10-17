@@ -3,3 +3,8 @@
 
 
 [Here](files/example_homework_0.html) is my 5 interesting examples.
+
+
+## IE 582 Homework 1 (17 October 2018)
+
+[Here](files/hw_1_version_2_.html)
