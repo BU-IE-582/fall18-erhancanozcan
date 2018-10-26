@@ -7,4 +7,9 @@
 
 ## IE 582 Homework 1 (17 October 2018)
 
-[Here](files/hw_1_version_2_.html) is my homework 1
+[Here](files/hw_1_version_2_.html) is my homework 1.
+
+
+## IE 582 Homework 2 (26 October 2018)
+
+[Here](files/hw2rapor.html) is my homework 2.
