@@ -13,3 +13,7 @@
 ## IE 582 Homework 2 (26 October 2018)
 
 [Here](files/hw2rapor.html) is my homework 2.
+
+## IE 582 Homework 3 (16 November 2018)
+
+[Here](files/IE_582_homework_3.html) is my homework 3.
