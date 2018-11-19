@@ -17,3 +17,4 @@
 ## IE 582 Homework 3 (16 November 2018)
 
 [Here](files/IE_582_homework_3.html) is my homework 3.
+[Here](files/IE_582_homework_3wcode.html) is my homework 3 with the code.
