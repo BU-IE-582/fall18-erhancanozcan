@@ -19,3 +19,11 @@
 [Here](files/IE_582_homework_3.html) is my homework 3.
 
 [Here](files/IE_582_homework_3wcode.html) is my homework 3 with the code.
+
+## IE 582 Homework 4 (19 December 2018)
+
+[Here](files/Untitled.html) is my homework 4.
+
+
+
+
